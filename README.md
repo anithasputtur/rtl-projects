@@ -2,7 +2,7 @@
 
 This is where I keep the RTL projects I build while learning VLSI and digital design.
 
-I'm Anitha, a 2nd year ECE student at VCET Puttur. My focus is RTL design using Verilog, and I'm working toward a career in VLSI. I learn by doing — understanding a concept, applying it, improving it, and repeating that cycle.
+I'm Anitha, a 2nd year ECE student at VCET Puttur. My focus is RTL design using Verilog, and I'm working toward a career in VLSI. I learn by doing understanding a concept, applying it, improving it, and repeating that cycle.
 
 ---
 
@@ -12,7 +12,7 @@ I'm Anitha, a 2nd year ECE student at VCET Puttur. My focus is RTL design using 
 `controller.v` — the main design  
 `testbench.v` — the testbench
 
-A traffic light controller built as a Moore FSM in Verilog. It cycles through RED, GREEN, and YELLOW using a counter to control how long each state lasts. There's also an emergency override — when triggered, it immediately forces GREEN no matter which state the FSM is currently in.
+A traffic light controller built as a Moore FSM in Verilog. It cycles through RED, GREEN, and YELLOW using a counter to control how long each state lasts. There's also an emergency override when triggered, it immediately forces GREEN no matter which state the FSM is currently in.
 
 State encoding used:
 - RED = 00
