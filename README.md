@@ -1,4 +1,4 @@
-# rtl-projects
+# TRAFFIC_LIGHT CONTROLLER
 
 This is where I keep the RTL projects I build while learning VLSI and digital design.
 
